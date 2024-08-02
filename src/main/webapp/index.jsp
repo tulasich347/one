@@ -11,8 +11,8 @@
 	<h1 style="color: blue; font-size: 40px;" align="center">WE DEPLOYED OUR APP ON 2 SERVERS</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">WELCOME TO FRONTLINES MEDIA</h1>
  	<h1 style="color: blue; font-size: 40px;" align="center">WE EPLOYED OUR  jenkins,tomcat&nexus Servers</h1>
-<img src="u1" align="center" width="500" height="600">
-<h1 align="center">image <h1>
+<img src ="https://images.pexels.com/photos/443446/pexels-photo-443446.jpeg?cs=srgb&dl=daylight-forest-glossy-443446.jpg&fm=jpg" align="center" height="200" width="200">
+          <h1 align="center">image <h1>
 	
 	
 	
